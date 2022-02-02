@@ -2,23 +2,35 @@
 
 ### Tools
 
-- [Foundry][foundry] (contributor)
-- [Foundry Book][foundry-book] (author)
-- [Foundry GHA][foundry-gha] (author)
+[Foundry][foundry] (contributor)  
+A smart contract development toolchain
+
+[Foundry Book][foundry-book] (author)  
+In-depth documentation for Foundry
+
+[Foundry GHA][foundry-gha] (author)  
+A GitHub action that installs Foundry
 
 ### Libraries
 
-- [ethers-rs][ethers-rs] (contributor)
-- [ethers-flashbots][ethers-flashbots] (author)
+[ethers-rs][ethers-rs] (contributor)  
+A library to interact with Ethereum in Rust
+
+[ethers-flashbots][ethers-flashbots] (author)  
+A middleware to send Flashbots bundles with Ethers
 
 ### Libraries for Micro
 
-- [micro-boom][micro-boom]: A library for wrapping errors in Boom
-- [micro-visualize][micro-visualize]: A library for visualizing requests and responses with micro
+[micro-boom][micro-boom] (author, archived)  
+A library for wrapping errors in Boom
+
+[micro-visualize][micro-visualize] (author, archived)  
+A library for visualizing requests and responses with micro
 
 ### Misc
 
-- [foton][foton]: A naive ray tracer in Rust
+[foton][foton] (author, stagnant)  
+A naive ray tracer in Rust
 
 [foundry]: https://github.com/gakonst/foundry
 [foundry-book]: https://github.com/onbjerg/foundry-book
