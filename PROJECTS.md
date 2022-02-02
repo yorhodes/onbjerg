@@ -2,37 +2,37 @@
 
 ### Tools
 
-[Foundry][foundry] (contributor)  
+**[Foundry][foundry]** (contributor)  
 A smart contract development toolchain
 
-[Foundry Book][foundry-book] (author)  
+**[Foundry Book][foundry-book]** (author)  
 In-depth documentation for Foundry
 
-[Foundry GHA][foundry-gha] (author)  
+**[Foundry GHA][foundry-gha]** (author)  
 A GitHub action that installs Foundry
 
 ### Libraries
 
-[ethers-rs][ethers-rs] (contributor)  
+**[ethers-rs][ethers-rs]** (contributor)  
 A library to interact with Ethereum in Rust
 
-[ethers-flashbots][ethers-flashbots] (author)  
+**[ethers-flashbots][ethers-flashbots]** (author)  
 A middleware to send Flashbots bundles with Ethers
 
 ### Libraries for Micro
 
-[micro-boom][micro-boom] (author, archived)  
+**[micro-boom][micro-boom]** (author, archived)  
 A library for wrapping errors in Boom
 
-[micro-visualize][micro-visualize] (author, archived)  
+**[micro-visualize][micro-visualize]** (author, archived)  
 A library for visualizing requests and responses with micro
 
 ### Misc
 
-[foton][foton] (author, stagnant)  
+**[foton][foton]** (author, stagnant)  
 A naive ray tracer in Rust
 
-[sjip8][sjip8] (author, stagnant)  
+**[sjip8][sjip8]** (author, stagnant)  
 A [CHIP-8][chip8-spec] emulator in Rust
 
 [foundry]: https://github.com/gakonst/foundry
