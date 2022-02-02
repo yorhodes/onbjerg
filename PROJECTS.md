@@ -32,6 +32,9 @@ A library for visualizing requests and responses with micro
 [foton][foton] (author, stagnant)  
 A naive ray tracer in Rust
 
+[sjip8][sjip8] (author, stagnant)  
+A [CHIP-8][chip8-spec] emulator in Rust
+
 [foundry]: https://github.com/gakonst/foundry
 [foundry-book]: https://github.com/onbjerg/foundry-book
 [foundry-gha]: https://github.com/onbjerg/foundry-toolchain
@@ -40,3 +43,5 @@ A naive ray tracer in Rust
 [micro-boom]: https://github.com/onbjerg/micro-boom
 [micro-visualize]: https://github.com/onbjerg/micro-visualize
 [foton]: https://github.com/onbjerg/foton
+[sjip8]: https://github.com/onbjerg/sjip8
+[chip8-spec]: https://en.wikipedia.org/wiki/CHIP-8
