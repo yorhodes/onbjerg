@@ -2,7 +2,7 @@
 
 I started programming when I was 11 and I have around 12 years of professional experience.
 
-I've previously worked at [Aragon](https://aragon.org), [Billy's Billing](https://billy.dk), [Paperflow](https://paperflow.com/) and contributed to [1Hive](https://1hive.org), 
+I've previously worked at [Aragon](https://aragon.org), [Billy's Billing](https://billy.dk), [Paperflow](https://paperflow.com/) and contributed to [1Hive](https://1hive.org).
 
 Here is an overview of what's currently top of mind for me.
 
