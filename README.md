@@ -19,7 +19,7 @@ Here is an overview of what's currently top of mind for me.
 - [ethers-rs][ethers-rs] (contributor)
 - [ethers-flashbots][ethers-flashbots] (author)
 
-[See more projects 🠒][see-more]
+[See more projects &rarr;][see-more]
 
 [foundry]: https://github.com/gakonst/foundry
 [foundry-book]: https://github.com/onbjerg/foundry-book
