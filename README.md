@@ -21,9 +21,9 @@ Here is an overview of what's currently top of mind for me.
 
 [See more projects &rarr;][see-more]
 
-[foundry]: https://github.com/gakonst/foundry
-[foundry-book]: https://github.com/onbjerg/foundry-book
-[foundry-gha]: https://github.com/onbjerg/foundry-toolchain
+[foundry]: https://github.com/foundry-rs/foundry
+[foundry-book]: https://github.com/foundry-rs/foundry-book
+[foundry-gha]: https://github.com/foundry-rs/foundry-toolchain
 [ethers-rs]: https://github.com/gakonst/ethers-rs
 [ethers-flashbots]: https://github.com/onbjerg/ethers-flashbots
 [see-more]: https://github.com/onbjerg/onbjerg/blob/master/PROJECTS.md
