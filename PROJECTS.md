@@ -35,9 +35,9 @@ A naive ray tracer in Rust
 **[sjip8][sjip8]** (author, stagnant)  
 A [CHIP-8][chip8-spec] emulator in Rust
 
-[foundry]: https://github.com/gakonst/foundry
-[foundry-book]: https://github.com/onbjerg/foundry-book
-[foundry-gha]: https://github.com/onbjerg/foundry-toolchain
+[foundry]: https://github.com/foundry-rs/foundry
+[foundry-book]: https://github.com/foundry-rs/foundry-book
+[foundry-gha]: https://github.com/foundry-rs/foundry-toolchain
 [ethers-rs]: https://github.com/gakonst/ethers-rs
 [ethers-flashbots]: https://github.com/onbjerg/ethers-flashbots
 [micro-boom]: https://github.com/onbjerg/micro-boom
